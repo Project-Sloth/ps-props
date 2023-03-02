@@ -1,5 +1,5 @@
 # ps-props
-A collection of props for your server to enhance your player's roleplaying experience. 
+A collection of props for your server to enhance your player's roleplaying experience. More props to come. 
 
 # Preview
 ### Milk Shakes with whip cream & cherrys
