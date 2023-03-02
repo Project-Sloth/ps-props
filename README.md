@@ -1,6 +1,17 @@
 # ps-props
-A collection of props for your server
+A collection of props for your server to enhance your player's roleplaying experience. 
 
+# Preview
+### Milk Shakes with whip cream & cherrys
+![image](https://user-images.githubusercontent.com/82112471/222577596-e7252e81-c8ac-42b3-97dc-cbd86782eb98.png)
+
+### Milk Shakes plain
+![image](https://user-images.githubusercontent.com/82112471/222577551-0147f2ea-1aeb-426d-b564-10bcfe381a4d.png)
+
+
+# Credits
+* BRUMMIEEE
+* MonkeyWhisper
 
 # License
 
