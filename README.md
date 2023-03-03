@@ -81,7 +81,7 @@ brum_watermelon_elfbar
 
 # Credits
 * BRUMMIEEE
-* MonkeyWhisper
+* [MonkeyWhisper](https://github.com/MonkeyWhisper)
 
 # License
 
