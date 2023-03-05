@@ -79,6 +79,21 @@ brum_watermelon_elfbar
 ```
 
 
+### PRIME Drinks
+![image](https://user-images.githubusercontent.com/82112471/222936894-47d91427-63ad-4798-a248-bc187b7a4d5a.png)
+
+Prop Names
+```
+brum_prime_blueraspberrry
+brum_prime_grape
+brum_prime_icepop
+brum_prime_lemonlime
+brum_prime_metamoon
+brum_prime_orange
+brum_prime_tropicalpunch
+```
+
+
 # Credits
 * BRUMMIEEE
 * [MonkeyWhisper](https://github.com/MonkeyWhisper)
