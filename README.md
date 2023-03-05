@@ -39,9 +39,64 @@ brum_shake_rsaltedcaramel
 brum_shake_strawberry
 brum_shake_vanilla
 ```
+
+### Soda Cans
+![image](https://user-images.githubusercontent.com/82112471/222779565-d4f770c1-1dd1-4a56-b068-9d77a7287495.png)
+
+Prop Names
+```
+brum_can_awrootbeer
+brum_can_cherrycoke
+brum_can_coke
+brum_can_dietdew
+brum_can_dppepper
+brum_can_fantagrape
+brum_can_fantaorange
+brum_can_fantapineapple
+brum_can_mountaindew
+brum_can_redbull
+brum_can_redbullsugarfree
+brum_can_sprite
+```
+
+### Disposable Vapes
+![image](https://user-images.githubusercontent.com/82112471/222779499-fe65bc37-c9ce-422a-b048-42848a168390.png)
+
+Prop Names
+```
+brum_blueberry_elfbar
+brum_bubblegum_elfbar
+brum_cheesecake_elfbar
+brum_cherry_elfbar
+brum_cola_elfbar
+brum_doubleapple_elfbar
+brum_elfbull_elfbar
+brum_grape_elfbar
+brum_greenapple_elfbar
+brum_mango_elfbar
+brum_strawberryice_elfbar
+brum_watermelon_elfbar
+```
+
+
+### PRIME Drinks
+![image](https://user-images.githubusercontent.com/82112471/222936894-47d91427-63ad-4798-a248-bc187b7a4d5a.png)
+
+Prop Names
+```
+brum_prime_blueraspberrry
+brum_prime_grape
+brum_prime_icepop
+brum_prime_lemonlime
+brum_prime_metamoon
+brum_prime_orange
+brum_prime_tropicalpunch
+```
+
+
 # Credits
 * BRUMMIEEE
-* MonkeyWhisper
+* [MonkeyWhisper](https://github.com/MonkeyWhisper)
 
 # License
 
