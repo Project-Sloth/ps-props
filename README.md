@@ -93,6 +93,19 @@ brum_prime_orange
 brum_prime_tropicalpunch
 ```
 
+### Starbucks Drinks
+![image](https://user-images.githubusercontent.com/82112471/223490125-297ce631-ed30-4acd-9aff-448467e770c6.png)
+
+Prop Names
+```
+brum_slothbucks
+brum_starbuckscan_coffeeshot
+brum_starbuckscan_coffeeshot
+brum_starbuckscan_hazelnut
+brum_starbuckscan_mocha
+brum_starbuckscan_vanilla
+brum_starbuckscan_whitechocolate
+```
 
 # Credits
 * BRUMMIEEE
