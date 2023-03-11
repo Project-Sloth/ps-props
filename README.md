@@ -107,6 +107,22 @@ brum_starbuckscan_vanilla
 brum_starbuckscan_whitechocolate
 ```
 
+### Lighter Pack
+![image](https://user-images.githubusercontent.com/82112471/224470693-07484b03-1cc5-4d46-9a0f-7d3e1e2725e2.png)
+
+Prop Names
+```
+brum_jetlighter_black
+brum_jetlighter_blue
+brum_jetlighter_cream
+brum_jetlighter_green
+brum_jetlighter_grey
+brum_jetlighter_purple
+brum_jetlighter_purpleweed
+brum_jetlighter_red
+brum_jetlighter_white
+```
+
 # Credits
 * BRUMMIEEE
 * [MonkeyWhisper](https://github.com/MonkeyWhisper)
