@@ -6,7 +6,7 @@ discord 'https://discord.gg/projectsloth'
 
 game 'gta5'
 
-version '1.0'
+version '1.3'
 
 data_file 'DLC_ITYP_REQUEST' 'stream/brum_shake_bubblegum.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/brum_shake_cherry.ytyp'
