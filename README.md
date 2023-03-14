@@ -123,6 +123,21 @@ brum_jetlighter_red
 brum_jetlighter_white
 ```
 
+
+### Jarritos
+![image](https://user-images.githubusercontent.com/82112471/225154877-ff1382d9-a687-430f-af18-c21170de83e9.png)
+
+
+Prop Names
+```
+ps_jarrito_grapefruit
+ps_jarrito_lime
+ps_jarrito_mandarin
+ps_jarrito_strawberry
+ps_jarritos_mango
+```
+
+
 # Credits
 * BRUMMIEEE
 * [MonkeyWhisper](https://github.com/MonkeyWhisper)
