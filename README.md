@@ -137,6 +137,44 @@ ps_jarrito_strawberry
 ps_jarritos_mango
 ```
 
+### Can Sodas
+![image](https://cdn.discordapp.com/attachments/1093589720484827157/1093589905776574534/cans.png)
+
+Prop Names
+```
+brum_7up
+brum_al_mimosa
+brum_arizona_lemon
+brum_atruly_watermelonkiwi
+brum_bang_bcv
+brum_bang_citrustwist
+brum_canadadry
+brum_bang_rainbowunicorn
+brum_coke
+brum_coke_cherry
+brum_cokezero
+brum_dppepper
+brum_drpepper_diet
+brum_fanta
+brum_fanta_grape
+brum_la_grapefruit
+brum_minutemaid_berrypunch
+brum_minutemaid_kiwistrawberry
+brum_minutemaid_watermelonpunch
+brum_minutemaid_wblueraspberry
+brum_pepsi_diet
+brum_pepsiwildcherry
+brum_sprite
+brum_truly_blackcherry
+brum_truly_justmango
+brum_truly_lemonade
+brum_truly_mango
+brum_truly_passionfruit
+brum_truly_pineapple
+brum_truly_pomegeanate
+brum_truly_strawberry
+```
+
 
 # Credits
 * BRUMMIEEE
