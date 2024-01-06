@@ -1,3 +1,6 @@
+# New FiveM ToS
+To adhere to the updated FiveM Terms of Service, this resource will no longer receive updates and will be archived.
+
 # ps-props
 A collection of props for your server to enhance your player's roleplaying experience. More props to come. 
 
